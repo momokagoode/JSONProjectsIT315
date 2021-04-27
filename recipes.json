@@ -1,0 +1,28 @@
+{
+	"recipes": [
+		{
+			"name": "Miso Soup",
+			"duration": "20min"
+		},
+		{
+			"name": "Tonkatsu",
+			"duration": "30min"
+		},
+		{
+			"name": "Croquette",
+			"duration": "45min"
+		},
+		{
+			"name": "Hamburg",
+			"duration": "30min"
+		},
+		{
+			"name": "Sushi",
+			"duration": "60min"
+		},
+		{
+			"name": "Soba Noodles",
+			"duration": "30min"
+		}
+	]
+}
