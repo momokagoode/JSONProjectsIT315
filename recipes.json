@@ -2,27 +2,33 @@
 	"recipes": [
 		{
 			"name": "Miso Soup",
-			"duration": "20min"
+			"duration": "20min",
+			"image": "misosoup.jpg"
 		},
 		{
 			"name": "Tonkatsu",
-			"duration": "30min"
+			"duration": "30min",
+			"image": "tonkatsu.jpg"
 		},
 		{
 			"name": "Croquette",
-			"duration": "45min"
+			"duration": "45min",
+			"image": "croquette.jpg"
 		},
 		{
 			"name": "Hamburg",
-			"duration": "30min"
+			"duration": "30min",
+			"image": "hamburg.jpg"
 		},
 		{
 			"name": "Sushi",
-			"duration": "60min"
+			"duration": "60min",
+			"image": "sushi.jpeg"
 		},
 		{
 			"name": "Soba Noodles",
-			"duration": "30min"
+			"duration": "30min",
+			"image": "soba.jpg"
 		}
 	]
 }
