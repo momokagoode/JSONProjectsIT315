@@ -3,32 +3,44 @@
 		{
 			"name": "Miso Soup",
 			"duration": "20min",
-			"image": "misosoup.jpg"
+			"image": "misosoup.jpg",
+			"description": "It’s super easy to make authentic Japanese miso soup at home! As the daily elixir of the Japanese diet, homemade miso soup is not only delicious, it also brings many great health benefits. ",
+			"URL": "https://www.youtube.com/watch?v=lH7pgsnyGrI"
 		},
 		{
 			"name": "Tonkatsu",
 			"duration": "30min",
-			"image": "tonkatsu.jpg"
+			"image": "tonkatsu.jpg",
+			"description": "Tonkatsu, or pork cutlet, is a Japanese dish of pork filet that is breaded with panko breadcrumbs and deep fried. It is traditionally served with a dark savory tonkatsu sauce and shredded green cabbage.",
+			"URL": "https://www.youtube.com/watch?v=TFy21yoLdfw"
 		},
 		{
 			"name": "Croquette",
 			"duration": "45min",
-			"image": "croquette.jpg"
+			"image": "croquette.jpg",
+			"description": "Japanese croquettes are called Korokke and the classic style is made of mashed potatoes mixed with sauteed ground beef and onion. The flat oval-shape patties are breaded with light and airy panko breadcrumbs and deep-fried.",
+			"URL": "https://www.youtube.com/watch?v=FVEJDJWDas0"
 		},
 		{
 			"name": "Hamburg",
 			"duration": "30min",
-			"image": "hamburg.jpg"
+			"image": "hamburg.jpg",
+			"description": "Japanese Hamburger Steak (Hambāgu) is a popular dish enjoyed both at home and at Yoshoku (Japanese style western food) restaurants. It’s a steak made from ground meat and usually served with rice rather than buns.",
+			"URL": "https://www.youtube.com/watch?v=ggeb4lXdPYo"
 		},
 		{
 			"name": "Sushi",
 			"duration": "60min",
-			"image": "sushi.jpeg"
+			"image": "sushi.jpeg",
+			"description": "Homemade Sushi is so much cheaper than at the restaurant. Sushi is easy and fun to make at home, and you can put all your favorite ingredients into your perfect custom roll.",
+			"URL": "https://www.youtube.com/watch?v=joweUxpHaqc"
 		},
 		{
 			"name": "Soba Noodles",
 			"duration": "30min",
-			"image": "soba.jpg"
+			"image": "soba.jpg",
+			"description": "Whenever Japan gets plenty hot in the summer, cold soba noodles, served with a dipping sauce, are a common snack or light meal. Soba are brown noodles, made from wheat and buckwheat, and the sauce is based on dashi.",
+			"URL": "https://www.youtube.com/watch?v=l8BCDXkwHwI"
 		}
 	]
 }
